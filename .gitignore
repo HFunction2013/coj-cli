@@ -1,0 +1,3 @@
+.DS_Store
+/coj-cli
+.!*.DS_Store
